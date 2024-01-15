@@ -13,7 +13,3 @@
 <p align="center">
     <a href="https://github.com/irvanherz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvanherz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
-![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
